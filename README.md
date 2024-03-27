@@ -3,4 +3,4 @@ This tutorial is aimed to users with no prior experience in RStudio. I will try 
 Although the material here can be used to different data types, it will be more useful for investigators in clinical research with observational designs.
 
 ## Order in which this tutorial should be taken
-Please, first read the [making_my_dataset_tidy]()
+Please, first read the [making_my_dataset_tidy](https://github.com/KJPaez1/A-friendly-PracticalGuide-to-gtsummary/blob/main/making_my_dataset_tidy.md)
