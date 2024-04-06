@@ -8,5 +8,5 @@ This tutorial is aimed to users with no prior experience in RStudio. I will try 
 4. For better organization, follow the steps in the following tutorial to set up a project in RStudio [here]().
 5. Read the following to create a project (you can think of this as a folder where everything is going to be stored) into RStudio:
 6. For the next step, you can chose one of the two tutorial (scritps) depending on the design of your study.
-  * Descriptive study: Tutorial 3.1
-  * Analytical study: Tutorial 3.2
+    * Descriptive study: Script_descriptive
+    * Analytical study: Script_analytical
